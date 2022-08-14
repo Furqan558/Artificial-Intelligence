@@ -4,7 +4,7 @@ This is Repo contains all the artificial intelligence codes that I have implemen
 
 ## Quick Start
 
-1. You can implement all these codes using local IDE for python, but for ACO you will need to use google colab.
+1. You can implement all these codes using local IDE for python, but for ipynb file extensions you will need to use ANACONDA, JUPYTER or GOOGLE COLAB (most_recommended).
 
 2. Go to <https://colab.research.google.com/>, pick _GITHUB_ source and put the repository details
 
